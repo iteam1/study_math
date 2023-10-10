@@ -1,2 +1,2 @@
 # study_math
-practice math for machine learning
+practice machine learning math
